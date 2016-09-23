@@ -1,0 +1,1 @@
+select idlocalizacion from localizacion WHERE direccion like '%Alonso%';

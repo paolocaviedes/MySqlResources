@@ -1,0 +1,1 @@
+ALTER TABLE localizacion ADD region varchar(45) NOT NULL;

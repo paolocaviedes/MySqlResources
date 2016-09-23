@@ -1,0 +1,5 @@
+CREATE USER 'ZEUS'@'localhost' IDENTIFIED BY 'zeus';
+
+GRANT ALL PRIVILEGES ON casys.(tabla) TO 'ZEUS'@'localhost';
+
+FLUSH PRIVILEGES;
